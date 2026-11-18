@@ -6,6 +6,8 @@ A joke web app for practicing your tracking on a kingfisher that flies and dives
 
 **Try it:** https://meinogizaka.github.io/KingfisherTrackingTrainer/
 
+![A riverside view with the settings panel, a flying kingfisher, and a row of dive points on the water](image.png)
+
 Enter the monitor size, where you stand, and the lens focal lengths. The kingfisher on screen then approaches the apparent size and speed you would see through the viewfinder in those conditions. It is a rehearsal before you head to the river. Exposure and focus are outside this bird's duties.
 
 The labels on the page are Japanese. For the app itself, use your browser's translate feature.

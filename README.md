@@ -1,5 +1,7 @@
 # カワセミ追尾トレーナー
 
+[English](README.en.md)
+
 飛んだり、ダイブしたりするカワセミを、家のモニタの前で追う練習をするためのジョークWebアプリです。
 
 **遊んでみる:** https://meinogizaka.github.io/KingfisherTrackingTrainer/
